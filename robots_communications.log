@@ -1,0 +1,53 @@
+[14:29:22 (INFO)]  Robots Names are correct! :)
+[14:29:22 (INFO)]  Robots Pose Sensors found! :)
+[14:29:22 (INFO)]  Communication model between 'ROBO1' and 'ROBO2': 'DISTANCE'
+[14:29:22 (INFO)]  Distance Threshold (m): 15
+[14:29:22 (INFO)]  Robots Names are correct! :)
+[14:29:22 (INFO)]  Robots Pose Sensors found! :)
+[14:29:22 (INFO)]  Communication model between 'ROBO1' and 'ROBO2': 'LINE_OF_SIGHT'
+[14:29:22 (INFO)]  Robots Names are correct! :)
+[14:29:22 (INFO)]  Robots Pose Sensors found! :)
+[14:29:22 (INFO)]  Communication model between 'ROBO1' and 'ROBO2': 'FREE_SPACE_LOSS'
+[14:29:22 (INFO)]  Frequency (MHz): 750
+[14:29:22 (INFO)]  Free Space Path Loss Threshold (dB): 55
+[14:29:22 (INFO)]  Robots Names are correct! :)
+[14:29:22 (INFO)]  Robots Pose Sensors found! :)
+[14:29:22 (INFO)]  Communication model between 'ROBO1' and 'ROBO2': 'PLM'
+[14:29:22 (INFO)]  Path Loss Map parameters: {'dr1': 3, 'dr0': 4, 'dr3': 1, 'dr2': 2, 't2': 20, 't3': 30, 't1': 10}
+[14:29:22 (INFO)]  RCS: 'ROBO1' & 'ROBO2' can communicate, because DISTANCE is: 2 (<15)
+[14:29:22 (INFO)]  RCS: 'ROBO1' & 'ROBO2' can communicate, because LINE-of-SIGHT is: True
+[14:29:22 (INFO)]  RCS: 'ROBO1' & 'ROBO2' can communicate, because FREE SPACE LOSS is: 29 (<55)
+[14:29:22 (INFO)]  RCS: 'ROBO1' & 'ROBO2' have a Data Rate communication of 3.00 (Mb/s), because the maximum Path Loss is: 17.25
+[14:29:29 (INFO)]  RCS: 'ROBO1' & 'ROBO2' can communicate, because DISTANCE is: 5 (<15)
+[14:29:29 (INFO)]  RCS: 'ROBO1' & 'ROBO2' can communicate, because LINE-of-SIGHT is: True
+[14:29:29 (INFO)]  RCS: 'ROBO1' & 'ROBO2' can communicate, because FREE SPACE LOSS is: 38 (<55)
+[14:29:29 (INFO)]  RCS: 'ROBO1' & 'ROBO2' have a Data Rate communication of 3.00 (Mb/s), because the maximum Path Loss is: 12.00
+[14:29:37 (INFO)]  RCS: 'ROBO1' & 'ROBO2' can communicate, because DISTANCE is: 12 (<15)
+[14:29:37 (INFO)]  RCS: 'ROBO1' & 'ROBO2' CANNOT communicate, because LINE-of-SIGHT is: False
+[14:29:37 (INFO)]  RCS: 'ROBO1' & 'ROBO2' can communicate, because FREE SPACE LOSS is: 46 (<55)
+[14:29:37 (INFO)]  RCS: 'ROBO1' & 'ROBO2' have a Data Rate communication of 4.00 (Mb/s), because the maximum Path Loss is: 8.10
+[14:29:44 (INFO)]  RCS: 'ROBO1' & 'ROBO2' can communicate, because DISTANCE is: 12 (<15)
+[14:29:44 (INFO)]  RCS: 'ROBO1' & 'ROBO2' CANNOT communicate, because LINE-of-SIGHT is: False
+[14:29:44 (INFO)]  RCS: 'ROBO1' & 'ROBO2' can communicate, because FREE SPACE LOSS is: 46 (<55)
+[14:29:44 (INFO)]  RCS: 'ROBO1' & 'ROBO2' have a Data Rate communication of 4.00 (Mb/s), because the maximum Path Loss is: 8.10
+[14:29:51 (INFO)]  RCS: 'ROBO1' & 'ROBO2' can communicate, because DISTANCE is: 2 (<15)
+[14:29:51 (INFO)]  RCS: 'ROBO1' & 'ROBO2' can communicate, because LINE-of-SIGHT is: True
+[14:29:51 (INFO)]  RCS: 'ROBO1' & 'ROBO2' can communicate, because FREE SPACE LOSS is: 32 (<55)
+[14:29:51 (INFO)]  RCS: 'ROBO1' & 'ROBO2' have a Data Rate communication of 2.00 (Mb/s), because the maximum Path Loss is: 20.25
+[14:29:58 (INFO)]  RCS: 'ROBO1' & 'ROBO2' can communicate, because DISTANCE is: 2 (<15)
+[14:29:58 (INFO)]  RCS: 'ROBO1' & 'ROBO2' can communicate, because LINE-of-SIGHT is: True
+[14:29:58 (INFO)]  RCS: 'ROBO1' & 'ROBO2' can communicate, because FREE SPACE LOSS is: 32 (<55)
+[14:29:58 (INFO)]  RCS: 'ROBO1' & 'ROBO2' have a Data Rate communication of 2.00 (Mb/s), because the maximum Path Loss is: 20.25
+[14:30:05 (INFO)]  RCS: 'ROBO1' & 'ROBO2' can communicate, because DISTANCE is: 2 (<15)
+[14:30:05 (INFO)]  RCS: 'ROBO1' & 'ROBO2' can communicate, because LINE-of-SIGHT is: True
+[14:30:05 (INFO)]  RCS: 'ROBO1' & 'ROBO2' can communicate, because FREE SPACE LOSS is: 32 (<55)
+[14:30:05 (INFO)]  RCS: 'ROBO1' & 'ROBO2' have a Data Rate communication of 2.00 (Mb/s), because the maximum Path Loss is: 20.25
+[14:30:12 (INFO)]  RCS: 'ROBO1' & 'ROBO2' can communicate, because DISTANCE is: 2 (<15)
+[14:30:12 (INFO)]  RCS: 'ROBO1' & 'ROBO2' can communicate, because LINE-of-SIGHT is: True
+[14:30:12 (INFO)]  RCS: 'ROBO1' & 'ROBO2' can communicate, because FREE SPACE LOSS is: 32 (<55)
+[14:30:12 (INFO)]  RCS: 'ROBO1' & 'ROBO2' have a Data Rate communication of 2.00 (Mb/s), because the maximum Path Loss is: 20.25
+[14:30:19 (INFO)]  RCS: 'ROBO1' & 'ROBO2' can communicate, because DISTANCE is: 2 (<15)
+[14:30:19 (INFO)]  RCS: 'ROBO1' & 'ROBO2' can communicate, because LINE-of-SIGHT is: True
+[14:30:19 (INFO)]  RCS: 'ROBO1' & 'ROBO2' can communicate, because FREE SPACE LOSS is: 32 (<55)
+[14:30:20 (INFO)]  RCS: 'ROBO1' & 'ROBO2' have a Data Rate communication of 2.00 (Mb/s), because the maximum Path Loss is: 20.25
+[14:30:20 (INFO)]  Morse socket closed
